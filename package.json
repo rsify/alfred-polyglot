@@ -10,16 +10,19 @@
     "url": "nikerino.com"
   },
   "engines": {
-    "node": ">=4"
+    "node": ">=7.6"
   },
   "scripts": {
     "postinstall": "alfy-init",
     "preuninstall": "alfy-cleanup"
   },
   "files": [
-    "index.js",
     "icon.png",
-    "info.plist"
+    "icons",
+    "index.js",
+    "info.plist",
+    "lib",
+    "update-config.js"
   ],
   "keywords": [
     "alfred",
