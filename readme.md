@@ -1,4 +1,4 @@
-# alfred-polyglot
+# alfred-polyglot [![npm](https://img.shields.io/npm/v/alfred-polyglot.svg)](https://npmjs.org/package/alfred-polyglot)
 
 > Translate text using Google Translate in Alfred 3
 
@@ -10,7 +10,7 @@
 $ npm install --global alfred-polyglot
 ```
 
-*Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
+*Requires [Node.js](https://nodejs.org) 7.6+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
 
 ## Setup
@@ -34,7 +34,7 @@ $ npm install --global alfred-polyglot
 trans (text) [from (language)] [to (language)]
 ```
 
-The output will be translated `text`. Both `from` and `to` parameters are optional, and can be used anywhere in input. 
+The output will be translated `text`. Both `from` and `to` parameters are optional, and can be used anywhere in input.
 
 ## Examples
 
