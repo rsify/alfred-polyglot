@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.nikerino.trans</string>
+	<string>com.nikerino.polyglot</string>
 	<key>category</key>
 	<string>Tools</string>
 	<key>connections</key>
@@ -375,6 +375,6 @@ Usage:
 	<key>version</key>
 	<string>1.0.0</string>
 	<key>webaddress</key>
-	<string>https://github.com/nikersify/alfred-trans</string>
+	<string>https://github.com/nikersify/alfred-polyglot</string>
 </dict>
 </plist>

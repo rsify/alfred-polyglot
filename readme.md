@@ -1,4 +1,4 @@
-# alfred-trans
+# alfred-polyglot
 
 > Translate text using Google Translate in Alfred 3
 
@@ -7,7 +7,7 @@
 ## Install
 
 ```
-$ npm install --global alfred-trans
+$ npm install --global alfred-polyglot
 ```
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
