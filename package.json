@@ -1,0 +1,40 @@
+{
+  "name": "alfred-trans",
+  "version": "0.0.0",
+  "description": "Translate text with ease using Google Translate",
+  "license": "MIT",
+  "repository": "nikersify/alfred-trans",
+  "author": {
+    "name": "nikersify",
+    "email": "nikersifyyt@gmail.com",
+    "url": "nikerino.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfy"
+  ],
+  "dependencies": {
+    "alfred-notifier": "^0.2.3",
+    "alfy": "^0.6.0",
+    "google-translate-api": "^2.3.0"
+  },
+  "devDependencies": {
+    "xo": "^0.17.0"
+  },
+  "xo": {
+    "semicolon": false
+  }
+}
