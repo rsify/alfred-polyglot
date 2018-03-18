@@ -4,6 +4,8 @@
 
 ![Preview gif](media/preview.gif)
 
+[Alfred forum thread](https://www.alfredforum.com/topic/11235-polyglot-yet-another-google-translate-workflow/)
+
 ## Install
 
 ```
