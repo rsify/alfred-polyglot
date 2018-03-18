@@ -94,10 +94,6 @@
 			</dict>
 		</array>
 	</dict>
-	<key>createdby</key>
-	<string>nikersify (nikerino.com) &lt;nikersify@nikerino.com&gt;</string>
-	<key>description</key>
-	<string>Translate text using Google Translate</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -372,9 +368,5 @@ Usage:
 			<integer>150</integer>
 		</dict>
 	</dict>
-	<key>version</key>
-	<string>1.0.0</string>
-	<key>webaddress</key>
-	<string>https://github.com/nikersify/alfred-polyglot</string>
 </dict>
 </plist>
