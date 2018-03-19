@@ -1,7 +1,6 @@
 const alfredNotifier = require('alfred-notifier')
 const alfy = require('alfy')
 
-const WorkflowError = require('./lib/error')
 const workflow = require('./lib')
 
 alfredNotifier();
@@ -10,8 +9,8 @@ alfredNotifier();
 	try {
 		const out = await workflow(alfy.input)
 
-		if (out === null) {
-			throw new WorkflowError('Something went wrong :(')
+		if (out) {
+			alfy.output(out)
 		}
 	} catch (err) {
 		const messages = []
