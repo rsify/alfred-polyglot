@@ -31,7 +31,6 @@
     "alfy"
   ],
   "dependencies": {
-    "alfred-notifier": "^0.2.3",
     "alfy": "^0.6.0",
     "google-translate-api": "^2.3.0"
   },

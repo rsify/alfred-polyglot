@@ -1,9 +1,6 @@
-const alfredNotifier = require('alfred-notifier')
 const alfy = require('alfy')
 
-const workflow = require('./lib')
-
-alfredNotifier();
+const workflow = require('./lib');
 
 (async () => {
 	try {
