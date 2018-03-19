@@ -14,7 +14,8 @@
   },
   "scripts": {
     "postinstall": "alfy-init",
-    "preuninstall": "alfy-cleanup"
+    "preuninstall": "alfy-cleanup",
+    "test": "xo"
   },
   "files": [
     "icon.png",
@@ -35,7 +36,7 @@
     "google-translate-api": "^2.3.0"
   },
   "devDependencies": {
-    "xo": "^0.17.0"
+    "xo": "^0.20.3"
   },
   "xo": {
     "semicolon": false
