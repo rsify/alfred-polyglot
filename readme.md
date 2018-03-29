@@ -17,7 +17,7 @@ $ npm install --global alfred-polyglot
 
 ## Setup
 
-1. Set the default language text will get translated to if `from` parameter is not specified.
+1. Set the default language text will get translated to if `to` parameter is not specified.
 
  ```
  trans !set default-language (language)
