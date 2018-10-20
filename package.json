@@ -1,6 +1,6 @@
 {
   "name": "alfred-polyglot",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Translate text with ease using Google Translate",
   "license": "MIT",
   "repository": "nikersify/alfred-trans",
