@@ -32,7 +32,7 @@
   ],
   "dependencies": {
     "alfy": "^0.6.0",
-    "google-translate-api": "^2.3.0"
+    "google-translate-api": "github:nikersify/google-translate-api"
   },
   "devDependencies": {
     "xo": "^0.20.3"
