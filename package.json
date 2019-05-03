@@ -32,9 +32,10 @@
   ],
   "dependencies": {
     "alfy": "^0.6.0",
-    "google-translate-api": "github:vitalets/google-translate-api"
+    "@vitalets/google-translate-api": "github:vitalets/google-translate-api"
   },
   "devDependencies": {
+    "alfy-test": "^0.3.0",
     "xo": "^0.20.3"
   },
   "xo": {
