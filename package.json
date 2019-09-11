@@ -31,8 +31,8 @@
     "alfy"
   ],
   "dependencies": {
-    "@vitalets/google-translate-api": "^2.8.0",
-    "alfy": "^0.9.0"
+    "@vitalets/google-translate-api": "^3.0.0",
+    "alfy": "^0.9.1"
   },
   "devDependencies": {
     "xo": "^0.20.3"
