@@ -1,6 +1,6 @@
 # alfred-polyglot [![npm](https://img.shields.io/npm/v/alfred-polyglot.svg)](https://npmjs.org/package/alfred-polyglot)
 
-> Translate text using Google Translate in Alfred 3
+> Translate text using Google Translate in Alfred
 
 ![Preview gif](media/preview.gif)
 
